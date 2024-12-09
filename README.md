@@ -25,12 +25,6 @@ If the output doesn't show `Architecture: aarch64` or `CPU op-mode(s): 32-bit, 6
 curl -o- -k https://raw.githubusercontent.com/TheRetroMike/VerusCliMining/main/install.sh | bash
 ```
 
-OR
-
-```bash
-curl-o- -k https://tinyurl.com/veruscli | bash
-```
-
 Now adjust pools, mineraddress+workername, and network settings for the API.
 exit with `<CTRL>-X` followed by `y` and an `<ENTER>`
 ```bash
